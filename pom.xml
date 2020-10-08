@@ -31,7 +31,7 @@
                 <artifactId>javafx-maven-plugin</artifactId>
                 <version>0.0.1</version>
                 <configuration>
-                    <mainClass>com.tp1.App</mainClass>
+                    <mainClass>com.tp1.JavaFXApplication</mainClass>
                 </configuration>
             </plugin>
         </plugins>

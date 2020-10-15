@@ -1,4 +1,4 @@
-package com.tp1;
+package org.openjfx;
 
 public abstract class SystemInfo {
 

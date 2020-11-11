@@ -1,5 +1,7 @@
 
-module com.tp1 {
-    requires javafx.controls;
-    exports org.openjfx;
+module app {
+    exports app.components.articlemenu;
+    exports app.components.clientsmenu;
+    exports app.components.invoicemenu;
+    exports app;
 }
